@@ -1,0 +1,11 @@
+@mixin  padBoxes($spacing) {
+  padding: $spacing;
+  margin: $spacing auto;
+  
+}
+
+@mixin border-radius($size){
+    -moz-border-radius: $size;
+    -webkit-border-radius: $size;
+    border-radius: $size;
+}

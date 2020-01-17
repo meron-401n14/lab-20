@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP test render Should have a button component 1`] = `
+<button>
+  Clear Form
+</button>
+`;
+
+exports[`APP test render renders ContactInput 1`] = `<form />`;

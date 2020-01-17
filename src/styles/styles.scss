@@ -1,0 +1,66 @@
+
+
+@import 'variables';
+@import 'mixins';
+
+
+body {
+  background-color:ffff;
+  background: url('/images/contact.jpg');
+ 
+  
+}
+    h2{
+      position:relative;
+      top:1px;
+      left:19px;
+      color:$theme-color-two;
+      font-family: $font-family-one;
+      font-size:$font-size;
+    }
+
+
+
+
+.contactMgr{
+  margin: '250px:10px:10px:10px';
+  background-color:$theme-color-four;
+  border:1px solid $theme-color-four;
+  border-radius: 2%;
+  
+  
+}
+.Display{
+  background-color:$theme-color-two;
+  border:1px solid $theme-color-four;
+  opacity: 0.9;
+  border: none;
+  border-radius: 40px 10px;
+  
+
+  h3{ 
+
+    font-family:$font-family  ;
+    text-align: center;
+   
+
+  }
+
+  li{
+    margin-left: 12px;
+    font-family:$font-family-tree;
+    
+
+  }
+}
+
+
+ 
+    
+
+
+
+
+
+
+
