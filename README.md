@@ -6,9 +6,9 @@
 
 ##### Links and Resources
 
-- [CodeSandbox]()
+- [CodeSandbox](https://codesandbox.io/s/github/meron-401n14/lab-20)
 - [netlify]( https://csb-kgd5r.netlify.com)
-- [travis](https://www.travis-ci.com/malemu17/lab-20)
+- [travis](https://www.travis-ci.com/meron-401n14/lab-20)
 
 
 #### Documentation
